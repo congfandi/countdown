@@ -1,7 +1,7 @@
 name: countdown
-description: a library project for ylva
+description: a library project for countdown timer
 version: 0.0.1
-homepage:
+homepage: https://github.com/congfandi/countdown
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
